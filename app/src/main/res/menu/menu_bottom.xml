@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_menu"
+        android:title="Beranda"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/scanner_menu"
+        android:title="Pindai"
+        android:icon="@drawable/ic_center_focus_strong"/>
+
+    <item
+        android:id="@+id/map_menu"
+        android:title="Denah"
+        android:icon="@drawable/ic_map"/>
+
+    <item
+        android:id="@+id/suggest_menu"
+        android:title="Kritik dan Saran"
+        android:icon="@drawable/ic_feedback"/>
+</menu>
